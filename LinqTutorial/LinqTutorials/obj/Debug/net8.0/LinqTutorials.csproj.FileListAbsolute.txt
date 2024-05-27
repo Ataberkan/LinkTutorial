@@ -1,0 +1,15 @@
+C:\Users\ASUS\Rider-Projects\task-7-Ataberkan\LinqTutorial\LinqTutorials\bin\Debug\net8.0\LinqTutorials.exe
+C:\Users\ASUS\Rider-Projects\task-7-Ataberkan\LinqTutorial\LinqTutorials\bin\Debug\net8.0\LinqTutorials.deps.json
+C:\Users\ASUS\Rider-Projects\task-7-Ataberkan\LinqTutorial\LinqTutorials\bin\Debug\net8.0\LinqTutorials.runtimeconfig.json
+C:\Users\ASUS\Rider-Projects\task-7-Ataberkan\LinqTutorial\LinqTutorials\bin\Debug\net8.0\LinqTutorials.dll
+C:\Users\ASUS\Rider-Projects\task-7-Ataberkan\LinqTutorial\LinqTutorials\bin\Debug\net8.0\LinqTutorials.pdb
+C:\Users\ASUS\Rider-Projects\task-7-Ataberkan\LinqTutorial\LinqTutorials\obj\Debug\net8.0\LinqTutorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Rider-Projects\task-7-Ataberkan\LinqTutorial\LinqTutorials\obj\Debug\net8.0\LinqTutorials.AssemblyInfoInputs.cache
+C:\Users\ASUS\Rider-Projects\task-7-Ataberkan\LinqTutorial\LinqTutorials\obj\Debug\net8.0\LinqTutorials.AssemblyInfo.cs
+C:\Users\ASUS\Rider-Projects\task-7-Ataberkan\LinqTutorial\LinqTutorials\obj\Debug\net8.0\LinqTutorials.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Rider-Projects\task-7-Ataberkan\LinqTutorial\LinqTutorials\obj\Debug\net8.0\LinqTutorials.sourcelink.json
+C:\Users\ASUS\Rider-Projects\task-7-Ataberkan\LinqTutorial\LinqTutorials\obj\Debug\net8.0\LinqTutorials.dll
+C:\Users\ASUS\Rider-Projects\task-7-Ataberkan\LinqTutorial\LinqTutorials\obj\Debug\net8.0\refint\LinqTutorials.dll
+C:\Users\ASUS\Rider-Projects\task-7-Ataberkan\LinqTutorial\LinqTutorials\obj\Debug\net8.0\LinqTutorials.pdb
+C:\Users\ASUS\Rider-Projects\task-7-Ataberkan\LinqTutorial\LinqTutorials\obj\Debug\net8.0\LinqTutorials.genruntimeconfig.cache
+C:\Users\ASUS\Rider-Projects\task-7-Ataberkan\LinqTutorial\LinqTutorials\obj\Debug\net8.0\ref\LinqTutorials.dll
